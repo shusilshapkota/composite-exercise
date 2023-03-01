@@ -9,6 +9,6 @@ public class HiddenFile implements Component {
 	
 	@Override
 	public String ls() {
-		return name;
+		return "";
 	}
 }
